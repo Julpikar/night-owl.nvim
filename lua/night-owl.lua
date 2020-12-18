@@ -26,8 +26,8 @@ local nightOwl = {
 }
 
 function nightOwl.terminal_color()
-    vim.g.terminal_color_foreground = nightOwl.white
-    vim.g.terminal_color_background = nightOwl.darkblue
+    --vim.g.terminal_color_foreground = nightOwl.white
+    --vim.g.terminal_color_background = nightOwl.darkblue
     vim.g.terminal_color_0          = nightOwl.darkblue
     vim.g.terminal_color_1          = nightOwl.red
     vim.g.terminal_color_2          = nightOwl.green
