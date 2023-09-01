@@ -1,3 +1,6 @@
+# Archived
+This Theme has been archived in favor https://github.com/oxfist/night-owl.nvim. 
+
 # night-owl.nvim
 Rewriting night-owl theme using lua.
 ## Install
